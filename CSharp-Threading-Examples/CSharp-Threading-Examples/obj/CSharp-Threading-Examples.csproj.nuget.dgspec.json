@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples.csproj",
+        "projectName": "CSharp-Threading-Examples",
+        "projectPath": "D:\\Projects\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples.csproj",
+        "packagesPath": "C:\\Users\\delangea\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\CSharp-Threading-Examples\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\delangea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.rezare.co.nz/nuget": {},
+          "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin/": {},
+          "https://secure.rezare.co.nz/external/nuget/": {},
+          "https://www.myget.org/F/oxyplot": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
