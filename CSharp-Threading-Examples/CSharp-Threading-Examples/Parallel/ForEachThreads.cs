@@ -8,9 +8,9 @@ namespace CSharp_Threading_Examples
 {
     public class ForEachThreads
     {
-        public async void RunForEachThreads()
+        public void RunForEachThreads()
         {
-            List<string> names = new List<string> { "Fred", "Jeff", "Steve", "Bob" };
+            List<string> names = new List<string> { "World", "Fred", "Jeff", "Steve", "Bob" };
 
             var randomDelayGenerator = new Random();
 
