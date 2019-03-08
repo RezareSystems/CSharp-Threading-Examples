@@ -6,7 +6,9 @@ namespace CSharp_Threading_Examples
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var forEachExample = new ForEachThreads();
+
+            forEachExample.RunForEachThreads();
         }
     }
 }
